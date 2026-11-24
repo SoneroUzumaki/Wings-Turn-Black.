@@ -1,0 +1,317 @@
+{
+  "name": "Wings Turn Black.",
+  "description": "a theme inspire for my Naruto OC; Sonero and Sasuke Uchiha.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "SoneroUzumaki",
+      "id": "1128499432577585315"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#8F0D0E"
+    ],
+    "BACKGROUND_BRAND": [
+      "#8F0D0E"
+    ],
+    "MENTION_FOREGROUND": [
+      "#8F0D0E"
+    ],
+    "TEXT_LINK": [
+      "#8F0D0E"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#8F0D0E"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ADA1B4"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#FFFFFF"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#D6D5DA"
+    ],
+    "CHAT_BACKGROUND": [
+      "#D6D5DA"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#D6D5DA"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#D6D5DA"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#D6D5DA"
+    ],
+    "HOME_BACKGROUND": [
+      "#D6D5DA"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#D6D5DA"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#732121"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#732121"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#732121"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#732121"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#732121"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#732121"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#732121"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#732121"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#732121"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#732121"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#732121"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#732121"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#732121"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#732121"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#732121"
+    ],
+    "EMBED_BACKGROUND": [
+      "#732121"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#732121"
+    ],
+    "KEYBOARD": [
+      "#732121"
+    ],
+    "PANEL_BG": [
+      "#732121"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#732121"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#732121"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#732121"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#732121"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#732121"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#732121"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#732121"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#732121"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FFFFFF"
+    ],
+    "TEXT_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_STRONG": [
+      "#FFFFFF"
+    ],
+    "ANDROID_RIPPLE": [
+      "#5b2a82"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(114,0,0,0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(170,0,0,0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFFFFF0D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FFFFFF12"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF14"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FFFFFF0F"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFFFFF1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "#43b58133"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "#43b5814d"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#121214"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BORDER_FAINT": [
+      "#FFFFFF12"
+    ],
+    "BORDER_SUBTLE": [
+      "#FFFFFF1C"
+    ],
+    "BORDER_STRONG": [
+      "#FFFFFF26"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#FFFFFF1A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#7f007b"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "TEXT_SECONDARY": [
+      "#d79dff"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#8F0D0E",
+    "BRAND_260": "#8F0D0E",
+    "BRAND_300": "#8F0D0E",
+    "BRAND_330": "#8F0D0E",
+    "BRAND_345": "#8F0D0E",
+    "BRAND_360": "#8F0D0E",
+    "BRAND_400": "#8F0D0E",
+    "BRAND_430": "#8F0D0E",
+    "BRAND_460": "#8F0D0E",
+    "BRAND_500": "#8F0D0E",
+    "BRAND_530": "#8F0D0E",
+    "BRAND_600": "#8F0D0E",
+    "BRAND_630": "#8F0D0E",
+    "BRAND_660": "#8F0D0E",
+    "BRAND_700": "#8F0D0E",
+    "PLUM_3": "#8F0D0E",
+    "PLUM_15": "#8F0D0E",
+    "PRIMARY_300": "#8F0D0E",
+    "PRIMARY_360": "#8F0D0E",
+    "PRIMARY_500": "#8F0D0E",
+    "PRIMARY_530": "#8F0D0E",
+    "BRAND_560": "#ADA1B4",
+    "PRIMARY_400": "#ADA1B4",
+    "PLUM_9": "#FFFFFF",
+    "PLUM_10": "#FFFFFF",
+    "PLUM_11": "#FFFFFF",
+    "PLUM_13": "#FFFFFF",
+    "PRIMARY_730": "#FFFFFF",
+    "ROLE_DEFAULT": "#FFFFFF",
+    "WHITE_630": "#FFFFFF",
+    "PLUM_17": "#D6D5DA",
+    "PLUM_20": "#D6D5DA",
+    "PLUM_24": "#D6D5DA",
+    "PLUM_25": "#D6D5DA",
+    "PRIMARY_600": "#D6D5DA",
+    "PRIMARY_DARK_700": "#D6D5DA",
+    "PRIMARY_DARK_800": "#D6D5DA",
+    "PLUM_16": "#732121",
+    "PLUM_19": "#732121",
+    "PLUM_21": "#732121",
+    "PLUM_22": "#732121",
+    "PRIMARY_460": "#732121",
+    "PRIMARY_630": "#732121",
+    "PRIMARY_660": "#732121",
+    "PRIMARY_700": "#732121",
+    "PRIMARY_DARK_600": "#732121",
+    "PRIMARY_DARK_630": "#732121",
+    "PRIMARY_DARK_660": "#732121",
+    "BRAND_730": "#FFFFFF",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_4": "#FFFFFF",
+    "PLUM_6": "#FFFFFF",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_330": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "WHITE_500": "#FFFFFF",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#101012",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_800": "#101012",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "materialtwotone"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://i.imgur.com/GvpCqvl.png",
+    "alpha": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
